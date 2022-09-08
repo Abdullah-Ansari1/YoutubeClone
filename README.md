@@ -1,10 +1,9 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+# Available Scripts
 
 In the project directory, you can run:
+
+## Create the env file
+Get your Api key from rapid api key. You can get your api key from [https://rapidapi.com/ytdlfree/api/youtube-v31/] store your key in the env file.
 
 ### `npm start`
 
